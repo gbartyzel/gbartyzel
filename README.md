@@ -2,7 +2,7 @@
 
 I'm a Software Developer specialized in the machine learning and robotics.
 
-I'm currently doing a PhD in reinforcement learning and industrial robotics.
+I'm currently doing a PhD in reinforcement learning and industrial robotics (RL-based method for assembling electronic elements of production lines).
 
 How to reach me:
 * email: <gbartyzel@hotmail.com>
