@@ -5,7 +5,7 @@ I'm a Software Developer specialized in the machine learning and robotics.
 I'm currently doing a PhD in reinforcement learning and industrial robotics.
 
 How to reach me:
-* email: <gbartyzel@hotmail.com>
+* email: <grzegorz@bartyzel.me>
 * LinkedIn: [Grzegorz Bartyzel](https://www.linkedin.com/in/gbartyzel/)
 
 
